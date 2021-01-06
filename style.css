@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+h1{
+    color:wheat;
+    text-transform: uppercase;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+h3{
+    color: rgb(233, 210, 210);
+    font-size:25px;
+    padding-top: 25px;
+
+}
+h6{
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+p{
+    color: white;
+    padding-bottom: 25px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 5px 10px;
+    border-radius: 2px;
+    color: white;
+    font-weight: 70;
+}
+section{
+    height: 600px;
+    padding-bottom: 50px;
+}
+.area{
+    width: 1100px;
+    border: 1px solid black;
+}
+.helllo-part{
+    background-image: url('images/black-gold-geometric-web-page-size-background_70155-229.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.about-part{
+    background-image: url('images/black-gold-geometric-web-page-size-background_70155-229.jpg');
+    background-repeat: no-repeat;
+        background-size: cover;
+}
+   
+    
+.c-half{
+    width: 40%;
+    float: left;
+   
+    margin-left: 5%;
+    padding-left: 2%;
+   
+    
+}
+.c-half img{
+    width: 100%;
+    margin-bottom: 10px;
+    padding-top: 0;
+    margin-bottom: 0; 
+   
+}
+.c-half a img{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+.main{
+    background-color: #242422;
+    height: 600px;
+    padding-bottom: 50px;
+    
+}
+.project{
+    background-color: darkgrey;
+    margin: o 15%;
+}
+.c-33{
+    width: 29%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    background-color: rgb(145, 122, 122);
+    border: 1px solid blanchedalmond;
+}
+.c-33 img{
+    width: 100%;
+}
+.main .c-30{
+    height: 30%;
+    background-color: rgb(43, 35, 35);
+    text-align: center;
+}
+.main .c-70{
+    height: 70%;
+    border: 0 5% rgb(43, 35, 35);
+    background-color: #fff;
+}
+ .work{
+    background-color: #242422;
+    height: 100px;
+    padding-bottom: 50px;
+    
+
+ }
+ .bgi{
+    margin: auto 20%;
+    text-align: center;
+        background-image: url('images/Group_33094_1.png');
+       
+    
+    
+ }
+ .bgi h1,input{
+     display: inline;
+ }
+ 
